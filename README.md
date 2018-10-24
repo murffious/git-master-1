@@ -5,9 +5,16 @@ How do I know if I am a "git master" for week 2 of bootcamp? <br/>
 
 I know what all of these commands do and know them by heart -
 
-`git clone <paste a url to a repo here>` 
-notes - you do not need those carrot things just a URL that get by clicking the green clone button on a git hub repo. 
 
+### these commands are for working with the class repo or other repos you did not create or ones you did and want to copy new from online
+`git clone <paste a url to a repo here>` 
+notes - you do not need those carrot things just a URL that you get by clicking the green clone button on a git hub repo. you only do this step if you are literally copying someone's or your own repo to your laptop or computer. it is literally for copying code 
+
+`git pull` 
+notes - command to DOWNLOAD code from an exisitng repo or folder on your machine. so go inside the folder with "cd" in terminal and do git pull this will download any NEW code that is online but not on your machine - if there is a conflict use `git add .` then  `git commt -m "fixing conflict"` and try the pull again. a conflict means soemthing online is different than on your machine and it NO LIKEY.
+
+
+### THESE COMMANDS below are far working back and forth with your code and github
 `git init`
 notes - do this inside a folder in terminal that you want to use git with - it initializes it to use git - you can see if that is done but using `ls -a` and see a .git folder in there. Also you can use file finder to show hidden files (. in front of a file or foler means its default to hidden) and delete the .git folder to get rid of git. do that if you have major issues and want to restart it all for git at least
 
@@ -38,4 +45,8 @@ if you ever get and error you likely forgot to add and commit so do that again f
 Then to host make 100% sure you have an index.html file in the ROOT or main level of the folder on github so not nested anywhere. Then click top bar right on SETTINGS go down and find section called GIT HUB PAGES and click the button that says NONE under source area and change it to MASTER BRANCH and click SAVE - then scroll down and click the live link and SHOUT YAY THIS IS SO COOL if it worked if not then SLACK out - Pauls DOCS suck but not really just a kinder version of it though. 
 
 
+THINGS we will learn later but is not requried to be a MASTER at this level - its kinda like this is an ORANGE BELT in KARATE terms and we are not BLACK BELT yet but soon very soon
+`git checkout -b nameyourbranch`
+`git checkout putbiglongcommitnumberheretogobackintime`
+`git merge`
 
