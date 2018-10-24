@@ -11,7 +11,7 @@ I know what all of these commands do and know them by heart -
 notes - you do not need those carrot things just a URL that you get by clicking the green clone button on a git hub repo. you only do this step if you are literally copying someone's or your own repo to your laptop or computer. it is literally for copying code 
 
 `git pull` 
-notes - command to DOWNLOAD code from an exisitng repo or folder on your machine. so go inside the folder with "cd" in terminal and do git pull this will download any NEW code that is online but not on your machine - if there is a conflict use `git add .` then  `git commt -m "fixing conflict"` and try the pull again. a conflict means soemthing online is different than on your machine and it NO LIKEY.
+notes - command to DOWNLOAD code from an exisitng repo or folder on your machine. so go inside the folder with "cd" in terminal and do git pull this will download any NEW code that is online but not on your machine - if there is a conflict use `git add .` then  `git commit -m "fixing conflict"` and try the pull again. a conflict means soemthing online is different than on your machine and it NO LIKEY.
 
 
 ### THESE COMMANDS below are for working back and forth with your code and github
