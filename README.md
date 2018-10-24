@@ -30,23 +30,25 @@ notes -- you can see the nice commit message and reference number and ALL your c
 `git remote add origin https://github.com/this_is_your_github_username/your_newly_created_repo_name_here.git`
 notes - this line of code is copy and pasted from github AFTER you click the PLUS sign button top right and click NEW REPOSITORY then put a name in the box (no spaces) and click the GREEN BUTTON saying "Create Repository". It means that you are adding a HOME online in the cloud on github so a remote destination for the git to send code to for this folder. - this can be changed but that is later y'all.
 
-AT THIS point you can PUSH or send or upload to that newly created HOME on github. 
+ 
 `git push -u origin master` 
-notes- this can also be copied and pasted from github when you create a new repo if you forget it. It pushed or sends all the code that has been COMMITED at that moment to github for living there. YAY always do this daily for all code you wrote - trsut me on that 
+notes- AT THIS point you can PUSH or send or upload to that newly created HOME on github.. this can also be copied and pasted from github when you create a new repo if you forget it. It pushed or sends all the code that has been COMMITED at that moment to github for living there. YAY always do this daily for all code you wrote - trust me on that 
 
-- lets say I did all that and pushed all my code up and all is happy and fine. okay now I changed my code and added some?
-MAGIC 3 words everytime 
-`git add .`
-`git commit -m "I added some new nav bar and other cool stuff and it works so I am saving to git now"`
-`git push`  *you only need to type "git push -u origin master" one time cause it locks in (sets upstream to be exact and upstream means which branch to send back and forth and usually its master so it says master)
+### lets say I did all that and pushed all my code up and all is happy and fine. okay now I changed my code and added some?
+-MAGIC 3 words everytime <br/>
+`git add .`<br/>
+`git commit -m "I added some new nav bar and other cool stuff and it works so I am saving to git now"`<br/>
+`git push`  <br/>
+*you only need to type "git push -u origin master" one time cause it locks in (sets upstream to be exact and upstream means which branch to send back and forth and usually its master so it says master)<br/>
 
-if you ever get and error you likely forgot to add and commit so do that again for fun.  
+if you ever get and error you likely forgot to add and commit so do that again for fun.  <br/>
 
+### hosting
 Then to host make 100% sure you have an index.html file in the ROOT or main level of the folder on github so not nested anywhere. Then click top bar right on SETTINGS go down and find section called GIT HUB PAGES and click the button that says NONE under source area and change it to MASTER BRANCH and click SAVE - then scroll down and click the live link and SHOUT YAY THIS IS SO COOL if it worked if not then SLACK out - Pauls DOCS suck but not really just a kinder version of it though. 
 
 
-THINGS we will learn later but is not requried to be a MASTER at this level - its kinda like this is an ORANGE BELT in KARATE terms and we are not BLACK BELT yet but soon very soon
-`git checkout -b nameyourbranch`
-`git checkout putbiglongcommitnumberheretogobackintime`
-`git merge`
+THINGS we will learn later but is not requried to be a MASTER at this level - its kinda like this is an ORANGE BELT in KARATE terms and we are not BLACK BELT yet but soon very soon<br/>
+`git checkout -b nameyourbranch`<br/>
+`git checkout putbiglongcommitnumberheretogobackintime`<br/>
+`git merge`<br/>
 
