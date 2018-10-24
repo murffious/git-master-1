@@ -14,7 +14,7 @@ notes - you do not need those carrot things just a URL that you get by clicking 
 notes - command to DOWNLOAD code from an exisitng repo or folder on your machine. so go inside the folder with "cd" in terminal and do git pull this will download any NEW code that is online but not on your machine - if there is a conflict use `git add .` then  `git commt -m "fixing conflict"` and try the pull again. a conflict means soemthing online is different than on your machine and it NO LIKEY.
 
 
-### THESE COMMANDS below are far working back and forth with your code and github
+### THESE COMMANDS below are for working back and forth with your code and github
 `git init`
 notes - do this inside a folder in terminal that you want to use git with - it initializes it to use git - you can see if that is done but using `ls -a` and see a .git folder in there. Also you can use file finder to show hidden files (. in front of a file or foler means its default to hidden) and delete the .git folder to get rid of git. do that if you have major issues and want to restart it all for git at least
 
