@@ -27,6 +27,13 @@
   11. ADD a real image to the img tag - just google a cool image and hit copy image address after right clicking on it and paste into src= area
   12. add a real link to your github profile to the BUTTON by putting the URL to your github main page in the HREF area
   13. SAVE and reload to check - if all is well save and follow the other readme here for git and host this file and do all that is needed to do that 
+  14. Once hosted paste the new live url in Slack and ping your neighbor to check it out 
+  15. now if hosted continue - if not get help before moving to part 2 
+    DONE - if more than 10 min then its cool but we need to redo then. lol
   
-  DONE - if more than 10 min then its cool but we need to redo then. lol
+  ### EDITING OUR WORK 
+  1. Change the text inside the CARD area to be something cooler
+  2. Change the color of the Navbar and or delete the Search input and button and hit save CTRL S or CMD S
+  3. use the 3 magic git words mentioned in other file to now and push the new edits to github - the live site will update by itself but you might have to wait a sec or manually go back to settings and click the link it gave you which kind of force refreshed it. 
+
   
