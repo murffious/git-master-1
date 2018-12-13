@@ -38,3 +38,12 @@ git pull origin master
 
 git checkout currentbranch
 git merge master
+
+### Fixing merge conflicts in VSCode
+This is how to resolve merge conflicts in VSCode ---
+Look at the
+GREEN(current code on your laptop)
+and BLUE (incoming code)
+at the TOP of the snippet is has a tiny bar with options of which to accept or both if desired.  - Click what you want and DONE. Remember to look for the 'purple c' in the file folder area to see which files
+Make sure to add and commit before and after
+![9yz5d](https://user-images.githubusercontent.com/25558342/49952562-64e60080-feb9-11e8-8fac-9af849897bcd.jpg)
