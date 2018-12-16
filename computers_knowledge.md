@@ -23,7 +23,7 @@ making cool sites need to know what is out there and what users expect
 
 
 cd ~ or terminal home
-Using Google Drive and things like Dropbox
+Using Google Drive and things like Dropbox and sharing files or using cloud storage
 
 
 OS - 
