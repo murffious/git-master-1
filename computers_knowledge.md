@@ -9,7 +9,7 @@ Task Manager Activity Monitor
 Hidden Files 
 
 
-#### What do you need to know about computers before coming to bootcamp or learning how to code?
+#### What do you need to know about "do you really understand how computers work."  before coming to bootcamp or learning how to code?
 ALL about cpoy and paste - i.e. Right click on track pad or mouse after highlighing some stuff. Copying images and image URL with right click basically all about right clicking and what it can do. Also basic HOT KEYS like CTRL C CTRL V or CMD C CMD V on a mac. (need two versions here instead)
 
 Join and find at least 4 web based sites or tools that you really enjoy and create free accounts or even if you have to pay.
@@ -20,3 +20,7 @@ Have a gmail account.
 Facebook Amazon 
 why ?
 making cool sites need to know what is out there and what users expect 
+
+
+cd ~ or terminal home
+Using Google Drive and things like Dropbox
