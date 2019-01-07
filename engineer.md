@@ -213,3 +213,154 @@ PRO TIP - DOM manipulation is a skill is called grabbing elements on the page to
 
 4. Knowing My Tools
 5. Thoughtful Collaboration
+
+
+**Skill 4 : Getting Outside Help**
+Use Slack chat groups, Facebook Groups, Meet-ups, Office Hours, Tutors, these are real people not Google, Videos, Tutorials, ReadMe etc. Slack is by far the best but for some things Facebook group comments and other message boards like Git Hub or Reddit can be huge help as well. 
+
+I was helping someone at the UofU bootcamp when they asked a quesiton abotu React native Tab navigaotr. I did not know the answer off hand and our first google saerches led to nothing.  I told him to slack it out in a specific channel for that tech and he got the exact spot on answer in less than minutes. he promptly joined the Slack channel I recommened and also told him to post it in Facebook Group for React native at the same time.  WIhtin 2 miniutes the exact anser came to him by some awesome fellow coder. It was a link to the full explanation we had never found. 
+
+I have also been helped by Slack messages many times. There are a few things I have learned in doing so. Basically the rule is jsut respect the community common sense type of stuff.  If you care to have it spelled out here are a few tips. 
+
+1. - Slack the question out to multiple places at once if it is super urgent - when is it not urgent to get help..? ;P. You won't always need to do this but it can help you see where and how fast helps come and what quality of help from each source. If no one answers the question within like 40 min. it won't help you that much get unstuck anywasy so delete the message off the board so people don't waster their time. LIke if you solve it before them, it happens, rememebr just asking the question outloud usually helps a ton, then post the answer it might help out someone else. 
+
+2. - Make it easy for others to help you without asking a lot of time consuming questions or really any quesitons. be exlicit and clear enough in the first post the best you can, many times clarification will  be needed. 
+
+    For example - "I want to do .... with ...." x " tech...Here is what I have tried ....(code snippet) here is my error - please help ...this post (use a link of something related but not totally all there to show you tried to solve it on your own to no avail etc)- that allows gracious people to jump right in and help and not have to ask back and forth and spam the threads so much and spend too much valuable time. Be specific. paste code snippets using ``` code here ``` basically it takes practice. how can you ask in a way that someone else not looking at your entire code base be able to help. Less is definitely better cause its other people's time so JUST enought to get the exact issue across. Hopefully so that don't have to ask any clarifying quesitons but its okay if they do cause it means they want ot help.  
+
+if the question is asked right more will be happy to answer. So if you get little help its very likely just the way you are asking 
+I say this b/c I have asked questions and only got crickets till I delted the post and totally re wrote it so it actually made sense to someone not looking at your entire code base. I eventually learned how to write in a way people would be happy to help. Quick answer usually come in the form of oh yeah do this, jsut add this line of code, change that line to this, or here is the link that helped me solve it. 
+
+3. - ALWAYS give great thanks to someone who gave you FREE help. More likley they will help again and others will see it too. It creats the feel good vibes that make it all work. Give credit where credit is due type of thing. 
+
+4. - Pair coding in class or after class or going to freecode camp or other local coding meet-ups have many of them have group coding time to help each other out 
+
+SLACK CHAT - "Where work is done"
+Here is a list of totally free public Slack groups: CodeNewbie, Code Buddies, and Career Change, Coders. There are literally lists complied that have over 1000 groups 
+https://blog.standuply.com/the-ultimate-list-of-400-slack-communities-2a7f3954f1d3?gi=a6a2c5ba0a47
+
+UoU bootcamp channel - all channels 
+
+FACEBOOK -
+There are Facebook "Pages" and "Groups" - both can lead to some help. These are just some of them. 
+
+Web Design and Development
+https://www.facebook.com/groups/websworld/ 
+
+freeCodeCampEarth ( also most states and/or cities have more local groups)
+https://www.facebook.com/groups/freeCodeCampEarth/ ,
+
+JavaScript
+https://www.facebook.com/groups/JavaScript.Programming/ ,
+https://www.facebook.com/javascriptJS/ , 
+
+FreeProgrammingBooksAndCourses https://www.facebook.com/FreeProgrammingBooksAndCourses/ , 
+ 
+JSWeekly
+https://www.facebook.com/JSWeekly/ , 
+https://www.facebook.com/react/
+
+The React and React Native groups are helpful jsut look for the groups with the most people in them and ask to join. 
+
+Finally you have Office hours and optional Tutor (ask Corrine and instructors about this ) If you are willing to put in the time it will come to you. You have a support network. Never take the easy way out at least come to office hours and get a C level HW with their help is better than incomplete since there is no GPA based final grade. 
+
+Do you want to challenge your self and get help to learn new tech not taught in the curriculum?
+
+Office hours at any point if you would like to learn outside topics not covered in the course request that it be taught in office hours mini lecture format by TA or instructor IT YOUR TIME> - use it Redux, Flexbox, CSS GRID, Selenium,React native, Docker etc. OR want to have a group review of the class content we can and would love to do that ,
+
+Also check out :
+
+FreeCodeCamp Message Boards, MDN Learner Area boards and tons more. 
+
+I promise eventually you will be the one helping out and you will not really be the one asking the questions but use these resources as much as you need as a NOOBIE.
+
+**5. Master Your Workflow Tools Better & General Tips**
+These are basically time saving, gray hair stopping tips stress and frustration. Not going to techically make or break the code but can save time effort. 
+
+Workflow and Tools VS Code GIT/Terminal - master your tools the proverbial tricks of the trade - swing the hammer a certain way even work smarter not harder. 
+Things like being able to create new branhces and merge stuff in so you dont break working code with experimentation new features 
+Time Saving Frustrations saving skills
+Master your tools
+hot keys like up arrow and VS code tricks can save lots of time and frustration. like dragging the file down to terminal to run it and knowing how to save all files with save key and on and on - using things like Replit to run JS and Chrome dev tools to fix UI issues CSS and HTML problems of any sort. using the debugger tools in VS code and Chrome. 
+Tons of courses on your code editor of choice.  VS code in partifualr is gaining speed and has more powerful extensions and new tools coming out each month. 
+Keyboard shortcuts 
+VS code debugger tools (the no bug symbol of hte left) You can run a node debugger instance and chrome tools from VS code all for a front end back end debugging "line by line" experience.
+All the bars (bottom tip left right ) all have veyr pwoerul stuff play around with them. 
+VS code hot keys 
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+Prettier
+Snippets (React and HTML etc *EMMET)
+Terminal TAB UpArrow cd ~ if you don't know those you should.
+ESLint - This tool was mentioned above in writing Clean code point. 
+Beatuify 
+OPen in Browser
+New SQL tools being built right in for connecting and viewing data
+https://github.com/mtxr/vscode-sqltools
+PLAN with detail 
+Use project management tool like Trello !  break stuff down all that is applicable here .This was stated during a retorspective of uof tudnets they wished they ahs planned orgainzed better with Trello. Organization is said to have cause less repeat work and planning is well everything.
+draw.io or Google version to plan apps out 
+Save the best for last. Commit and push often - I repeat commit and push often - YOU Will face a day when that will save you so much headache  Back up, back up, back up. 
+
+Learning your tools will help you get unstuck.
+dev tools https://flaviocopes.com/chrome-devtools-tips/
+
+**SKILL 6 Learn How to Learn for Mastery**
+Really this section is about knowing something - taking the learning to a level of proficiency or mastery - so can you do it on your own develop a skill.
+
+1. Learning aka Master New Content Fast learning how to learn - its on countless job postings as real skill. so do it. 
+
+As a benchmark, consider spending 70–80% of your outside class time writing and reviewing code. Only the remaining 20% is for other passive activities. If you are watching a tutorial or long course you are either coidng line for line with the instructor or you are pausing the video periodlically to go put into practice what you are learning.
+
+  build stuff build stuff anything just build little sandbox stuff watching tutorials is like listening to how to speak Spanish cds all day and never saying a work in Spanish or never going to a Spanish restaurant for example and practice the phrase learn by doing 
+Get it working then refactor
+Learning Mastery and Pro Tips:
+Always be coding! Language Center whether it be programming language or human spoken language is only learned by speaking and in this case coding. 
+
+Apply what you learn - one of th msot skilled proffesors I ever saw used a quiz one quesions about an [irnciel oin the coues e we had to dfine it for the ansere and the other part of the quiz was to go and find that principle working in a real world current news aritcle of some sort and imemedlaeyt show with graphs and what not how the princpele was applicable to the aritcel. I still remmeber some of those aritlces pop quizzes and the stories. APplication fast . KEy. 
+
+]
+HW and Sandbox
+https://alternativeto.net/software/js-bin/
+Even better make your own folder called Sandbox for trying new stuff you could even have one for each language. react-sandbox , js-sandbox , etc. 
+https://codesandbox.io/
+https://www.sitepoint.com/7-code-playgrounds/
+HW should build on class activities. So make a sandbox and try to rebuild every single thing done in class 
+Watch the Videos in the VideoGuide.md for each week and code along. 
+
+write an article just like this one and the many you find and read and it helps you master the content even make a Youtube video you could even put on your portfolio "your tutorials" I once spent 3 hours a a problems then found a 5 minute fix so I made a video and got 78 50 views. Employers like that you contribute to open source and also in my opinion to the coding community in general 
+helo out on stack overflwo and slack.
+
+Make sure to Proof read the other README for lots of euros and maybe cut it all out and check the prework for all that debugging advice I found somewhere  . check my full stack mastery github repo and then ship this to medium and the repo
+
+Falshcards - jsut phsycally going thorugh teh motions tons of reaserch on that . 
+
+Mastering all technologies taught in the course. You'll learn so much in this bootcamp, it'll make your head spin. The skill you're really trying to pick up: learning how to teach yourself new technologies using online resources.we have countless resources for you so just ask if you are not finding what you want on Google 
+
+Hwo to do more: how can I use for loops conditionals and OBjects strings ,arrays(and their methods) and fucntions to make stuff happen - how to tell a computer to bring my idea to life. Callbacks, objects communicating with other objects by methods and using theri values to track stuff "how to use Javascript to .....?" or just "... Javacirpt" 
+
+Learning How to Learn - One of the most important skills you will learn in this program is how to independently learn. This course grounds you in a methodology.
+Learn from others:
+https://www.coursera.org/learn/learning-how-to-learn
+
+
+https://frontendmasters.com/books/front-end-handbook/2018/learning/self-direct-learning.html
+HAs a great list of resouces 
+https://github.com/AllThingsSmitty/must-watch-javascript
+anythine awesome https://github.com/sindresorhus/awesome
+must watch 
+free JS books 
+Livecoding.tv - Watch (and chat with) developers live as they code projects. Great for seeing the thought process of other developers. It's also fun to watch them struggle with bugs.
+TwitchTV - Programming - Similar concept as Livecoding.tv.
+YouTube:
+
+LevelUpTuts - Great (free) resources for taking your web development skills to the next level. Both novices and advanced developers will find plenty to learn from here.
+
+LearnCode.academy - Another great resource, particularly for advanced topics on JavaScript, jQuery and Angular.js.
+open source, volunteer work family friends on facebook ask around to offer free work as way to build portfolio. or accept money too 
+sandbox have fun make cool stuff that interests you . i am a single guy and made a cool dating app and that is how I learned React. 
+
+take a tutorial but then code 
+
+If you are stuck Revisit What You’ve Already Learned its really hard to learn all the first time through go back and see if you missed something in the lesson materials. Only after months of developing and a revisit to the DOCS was I able to grasp them. Reading and learning from the DOCS is tough at first. So don't give up. 
+
