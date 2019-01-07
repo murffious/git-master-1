@@ -17,4 +17,7 @@ NOTE: Linting code is a topic for later discussion once you have good habits for
 VS code has tons of extensions :I fyou soley rely on these they will be a crutch so jst decidde now to install them in about 4 mo after you have good clean habits without them as with many tools like with hitting tab for a for loop - I asked a student to write a for loop and he could not do it after about 7 weeks because he only used the auto complete snippets. True story - and plus your future employer may not allow those tools or force you to use a different code editor. NO bueno. 
 As with HTML and CSS, you can ensure better quality, less error-prone JavaScript code using a linter, which points out errors and can also flag up warnings about bad practices, etc., and be customized to be stricter or more relaxed in their error/warning reporting. The JavaScript/ECMAScript linters we'd recommend are JSHint and ESLint; these can be used in a variety of ways, some of which we'll detail below.
 It is not very convenient to have to copy and paste your code over to a web page to check its validity several times. What you really want is a linter that will fit into your standard workflow with the minimum of hassle. Many code editors have linter plugins, for example Github's Atom code editor has a JSHint plugin available.Or in the command line itself
-2. 
+2. Problem Solivng aka Thinking Like a Programmer
+3. Debugging 
+4. Knowing My Tools
+5. Thoughtful Collaboration
