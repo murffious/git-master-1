@@ -1,7 +1,7 @@
 #### Steps to become a world class engineer
 
-1. Know The Code
-####### A. Write CLEAN code aka just don't write bugs
+##### 1. Know The Code
+A. Write CLEAN code aka just don't write bugs
 - "Precursor to a BUG" Yeah I said it : Writing Cleaner More Efficient Maintainable Code  It has been said this is the key to squashing bugs in our code just don't' write bugs in the first place. Much has been said about this as a precursor to debugging so that in the future you will have less bugs. It should be your goal to CARE about your code. Furthermore, many a job posting has the required skill of Write Cleaner Code and avoid bugs. It was said in a recent retrospective of a group of university bootcamp students that they wished they wished they had focused more on things like code style/conventions which would have led to less confusion which in this case is from a group working on the same project. To fully support this we read in "The Art of Readable Code” by Boswell&Foucher,  "The fundamental theorem of readability : code should be written to minimize the time it would take for someone else to understand it !" I paraphrase further advice from the book: Things you can do to improve your code: picking good names,(semantic meaningful names for variables, functions etc) writing good comments, formatting your code neatly (clean use of whitespace). 
 
 Clean maintainable code - Coming from a non technical background where I thought everything should be automated and why are we using terminal not GUI etc for me especially writing well spaced code was so annoying and I was by habit a sloppy writer. 2 spaces or 4 naming conventions for variables and functions. feed back from other cohorts is hat they wish they knew this stuff before Just start good habits early and be very CLEan in all your code I promise it will pay off. " write code for OTHERS to come then read it"
@@ -17,7 +17,55 @@ NOTE: Linting code is a topic for later discussion once you have good habits for
 VS code has tons of extensions :I fyou soley rely on these they will be a crutch so jst decidde now to install them in about 4 mo after you have good clean habits without them as with many tools like with hitting tab for a for loop - I asked a student to write a for loop and he could not do it after about 7 weeks because he only used the auto complete snippets. True story - and plus your future employer may not allow those tools or force you to use a different code editor. NO bueno. 
 As with HTML and CSS, you can ensure better quality, less error-prone JavaScript code using a linter, which points out errors and can also flag up warnings about bad practices, etc., and be customized to be stricter or more relaxed in their error/warning reporting. The JavaScript/ECMAScript linters we'd recommend are JSHint and ESLint; these can be used in a variety of ways, some of which we'll detail below.
 It is not very convenient to have to copy and paste your code over to a web page to check its validity several times. What you really want is a linter that will fit into your standard workflow with the minimum of hassle. Many code editors have linter plugins, for example Github's Atom code editor has a JSHint plugin available.Or in the command line itself
-2. Problem Solivng aka Thinking Like a Programmer
+#### 2. Problem Solivng aka Thinking Like a Programmer
+Be a Problem Solver: 
+
+& Pseudocode
+If you find yourself in a project and don't know where to start. Read on. 
+Details- Attention to detail like follwing a README step by step exactly. IF something is nor workign restart at step 1 and double check each step.  Computers are exact so be like them.
+If you want be better at algorithm problems and handling nasty complicated code /data manipulation in your projects or even refactor and better your code . 
+Trade offs CS algorithm class - more efficient, cost etc. 
+it is said that is about trade offs start to see that 8 years off stuff  CEO stuff 
+
+There is a common saying in programming "Rubber Duck It."
+
+Walk through your code out loud to an inanimate object (like a rubber duck!) and pose your question. As you’re asking the question, the answer might come to you. so many times I have just asked my senior  or co worker devs a question and just asking it the answer came to me but I had to ask it out loud (or at least in a Slack message) verbalize or vocalize it 
+
+write your program on paper. In a real world technical interview we call it white boarding but paper or whiteboard writing the code helps take you out of the help from a code editor or syntax errors etc and just focus on the solving the problem. 
+Toy Problems technical Challenges thinking like programmer
+Look up all the possible array or string methods on W3 schools or MDN and find out if any of them can help do something like sort, or whatever.  break things down into tiny functions that do one thing and do it well. 
+Immediately handle edge cases - empty array zero negative numbers weird stuff 
+Once solved a problem look at or google all the other answers to the problem this will teach you much. 
+be able to go back and forth between data types like Number and string, working with indexOf and splice and slice and replace , join, split making a map over an object as taught by Grider push pop shift unshift - really Grider says its usually just have you seen that one before so do toons of them read coding challenge books and Code wars leet code and code fighters , Codility and so forth - timed eventually for interviews so you need to be good EVEN if you are one to think these problems have nothing to do with how I can build a site trust me it does help and employers do it anyways in most cases expect for start ups but still you eventually benefit by mastering these 
+
+break down pseudo code and know the language more and more of what it can do understanding for in for of and map Number and toString - again playing around with nested objects doing stuff to the data inside them and so forth will come up in real coding i promise and reg ex
+manipulating, checking, tool box: conditional, loops, methods on that data type - 
+
+Never write a line of code you never FULLY understand - at first this is obviously too much to ask but as time goes on make sure you know and can explain out loud every single detail of every character or line of cod.e I have asked many students what is that or what does this mean exactly and they say they know but can't explain it.  CEO code smith says world class engineers master the skill of technical communication and you will be asked by employers to explain code so get to it.Try pair programming for a bit with someone so you can see how others think and you will grow a lot.  
+Take some MIT Stanford Harvard free real CS classes online 
+Introduction to Programming Logic
+https://www.youtube.com/watch?v=GNyvRP6HzhA&feature=youtu.be
+
+Pseudo Coding - A real story - It happens all the time
+Breaking things down into small steps: Story student comes after projects were planned and started and says I am supposed to make this button click and do this and that and all this and have no idea where to start. 
+I then showed the student how she knew exactly how to do each and every thing she was assigned but was not breaking it down to see that. At first this will seem annoying but it will help you break down tough problems into manageable bite size pieces. Just ask yourself what is the exact thing I am trying to accomplish right now and write it down in pseudo code - now Google that exact phrase in a general way - CEO code smith  research research research and no coding then you have the copy and paste from stack overflow all your answers. You want to be in the middle in the "independent problem solver" zone. 
+
+After your second language, you'll get much faster at picking up new languages. You will see patterns emrge and things like React handlebars all build on previous patterns. 
+according to the MIT course algorithm that class shaves off about 8 years of experience. trade offs efficiency etc. algorithms course from a pro I respect says just having had that problem is the almost only way to solve it hardly anyone very very rarely someone come up with some answer to a really tough algorithm like Recursive Fibonacci but those having studied it before hand will be able to pass the interview. that is why books like cracking the coding interview are popular. 
+
+MIT algorithms class lots of JS free books etc. algorithms helping you be better code faster 
+
+OOP - understanding basically that all of coding is mostly 
+Function do do one thing and do it well
+Functional  
+Declarative 
+OOP 
+and just in general understanding how compilers work and what programming is in general 
+patterns MVC , React Container/Presentational 
+Clean maintainable code - maintainable lots of time has to do with learning these types of things. the =overall style and architecture of yoru code MVC and organization. General functions resuable 
+Get smart - Microsoft  Podium - if learning is always there and problems solving requires elegant creative solutions then analytical thinking critical thinking skills are key Steve jobs Law school skills quote. 
+
+
 3. Debugging 
 
 ###### B. Ahhh BUG! Where? What? When? Why? How[to fix]? - Plan of Attack
