@@ -4,7 +4,7 @@ Purpose: This document is intended to be an aid to you in the first 6 - 12 mon. 
 ## **KEY attitude 1**
 - Learning takes humility.
 
-A humble learner is the readiest learner. Naturally if you are stuck you will be getting feedback. Understand and accept that you will make mistakes. The point is to find them early, before they make it into production. Fortunately, except for the few of us developing rocket guidance software at a place like DragonX or NASA, mistakes are rarely fatal in our industry, so we can, and should, learn, laugh, and move on. You are not your code. Also remember to treat others as you would be treated with feedback. Critique code instead of people-be kind to the coder, not to the code. It was hard for me at first to take critical feedback - I felt defensive - don't do that. It's just code it's not you.
+A humble learner is the readiest learner. Naturally if you are stuck you will be getting feedback. Understand and accept that you will make mistakes. The point is to find them early, before they make it into production. Fortunately, except for the few of us developing rocket guidance software at a place like DragonX or NASA, mistakes are rarely fatal in our industry, so we can, and should, learn, laugh, and move on. You are not your code. Also remember to treat others as you would be treated with feedback. Critique code instead of people-be kind to the coder, not to the code. It was hard for me at first to take critical feedback - I felt defensive - don't do that. It's just code it's not you. Also don't ever think you know eveything, as a new dev you most certainly won't "be there" for at least 6 mo. - 18 mo. depending...
 
 ## **KEY attitude 2**
 - Learning to code is very hard thus learning to code/program [web dev] takes patience and determination.
@@ -32,8 +32,8 @@ D. CSS - Common issues for NOOBS
 E. JavaScript - Common Errors Checklist for NOOBS
 F. General Libraries and Frameworks Troubleshooting Tips 
 
-####### A. Write CLEAN code aka just don't write bugs
-- "Precursor to a BUG" Yeah I said it : Writing Cleaner More Efficient Maintainable Code  It has been said this is the key to squashing bugs in our code just don't' write bugs in the first place. Much has been said about this as a precursor to debugging so that in the future you will have less bugs. It should be your goal to CARE about your code. Furthermore, many a job posting has the required skill of Write Cleaner Code and avoid bugs. It was said in a recent retrospective of a group of university bootcamp students that they wished they wished they had focused more on things like code style/conventions which would have led to less confusion which in this case is from a group working on the same project. To fully support this we read in "The Art of Readable Code” by Boswell&Foucher,  "The fundamental theorem of readability : code should be written to minimize the time it would take for someone else to understand it !" I paraphrase further advice from the book: Things you can do to improve your code: picking good names,(semantic meaningful names for variables, functions etc) writing good comments, formatting your code neatly (clean use of whitespace). 
+##### A Write CLEAN code aka just don't write bugs
+"Precursor to a BUG" Yeah I said it : Writing Cleaner More Efficient Maintainable Code  It has been said this is the key to squashing bugs in our code just don't' write bugs in the first place. Much has been said about this as a precursor to debugging so that in the future you will have less bugs. It should be your goal to CARE about your code. Furthermore, many a job posting has the required skill of Write Cleaner Code and avoid bugs. It was said in a recent retrospective of a group of university bootcamp students that they wished they wished they had focused more on things like code style/conventions which would have led to less confusion which in this case is from a group working on the same project. To fully support this we read in "The Art of Readable Code” by Boswell&Foucher,  "The fundamental theorem of readability : code should be written to minimize the time it would take for someone else to understand it !" I paraphrase further advice from the book: Things you can do to improve your code: picking good names,(semantic meaningful names for variables, functions etc) writing good comments, formatting your code neatly (clean use of whitespace). 
 
 Clean maintainable code - Coming from a non technical background where I thought everything should be automated and why are we using terminal not GUI etc for me especially writing well spaced code was so annoying and I was by habit a sloppy writer. 2 spaces or 4 naming conventions for variables and functions. feed back from other cohorts is hat they wish they knew this stuff before Just start good habits early and be very CLEan in all your code I promise it will pay off. " write code for OTHERS to come then read it"
 DRY - if you ever fin yourself repeating code even twice you may need to refactor and generalize and do something better 
@@ -54,11 +54,11 @@ maybe chrome tools link here too
 
 
 
-###### B. Ahhh BUG! Where? What? When? Why? How[to fix]? - Plan of Attack
+##### B. Ahhh BUG! Where? What? When? Why? How[to fix]? 
+Plan of Attack
 Ask these questions when you have tried you best to write clean code and you still have broken code - everyday :
------------------------------------------
 **Where?** By where we mean *Where* in the code stopped on? A specific line of code and file name. Code reader computer reads the code from top to bottom. Code will not even run if there is what is known as a fatal error meaning there is a syntax error . So the code compiles first then runs. Languages are different but in javascript this is how it works.Some times its nestes in the error message Where is the origin of said running code. function etc. Find out the last function that worked what variables are being used and then you can find what stopped the code. Stack Trace  yellow red clicking on browser it takes you to the line of code if you you two screens if not it will go there if you click back to the code editor it wil be there. Not sure if its jsut Chrome or React or what. 
------------------------------------------
+
 **What?** What caused the code to stop? More specifically what is the error(message hopefully)? A bug duh. But what is that bug now that we have found it?
 most the time you will know but not always 
 
@@ -69,11 +69,10 @@ Error reading - Understanding how Javascript is run this cannot be fully covered
 What line of code did it stop on.? console log and variables in the vicinity - check for loops and if statements 
 ReferenceError: Syntax error fatal errors read debug code error 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors
------------------------------------------
 **When?** Does it happen before running the code  Did it happen after a certain event like a click - if it is event based you can track those down.
------------------------------------------
+
 **Why?** undefined, imporperly used object or reference to an object or function
------------------------------------------
+
 
 How to fix it?
 
