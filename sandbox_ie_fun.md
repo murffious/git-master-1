@@ -8,4 +8,9 @@ HOW DO I MAKE CODING FUN AND MASTER IT FASTER ?
 YOU MUST OWN THE CODE - you do this by making it personal and tie it to something meaningful to you- 
 - Share you new creation with a TA/Instructor or in Slack with someone/class. This helps you stay excited just like posting on Facebook or Insta or what not.  
 
-#2 Keep doing Codewars type problems everyday if you can. This helps engrain the coding thought process.  
+#2 Keep doing Codewars type problems everyday if you can. This helps engrain the coding thought process. 
+
+
+#3 Do coding Drills 
+- read on W3Schools to review concpet or some tutorial . 
+- Write the code 3-10 times over and over again until you can do it from memory .    
