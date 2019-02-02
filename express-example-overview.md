@@ -1,5 +1,9 @@
 ## Key Concepts and Terms 
 
+-- look up in the documentation . Express Docs or W3schools 
+-- find examples of each one before coding . 1. reference class activites 2. google exmaples of ... 
+-- code it ! use each one several times in a sandbox to OWN the code
+
 in Express.js `req` or `request` is an object with properties and values (and methods) containing the info gathered from the actual request - here are some KEY properties to know - I would MEMORIZE this info and keep it very close - make notes to help you and KNOW THIS well
 ```req.body - info from the body of the request 
 req.params  - info in the url 
