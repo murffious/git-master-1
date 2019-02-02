@@ -1,6 +1,6 @@
 ## Key Concepts and Terms 
 
--- look up in the documentation . Express Docs or W3schools 
+-- look up in the documentation . Express Docs or W3schools - only watch a video if you plan on taking ACTIVE learning seroius like notes or flash cards or pause and code along and experiment 
 -- find examples of each one before coding . 1. reference class activites 2. google exmaples of ... 
 -- code it ! use each one several times in a sandbox to OWN the code
 
