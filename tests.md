@@ -1,4 +1,17 @@
 
+### Why write tests it feels lame! 
+Tests are programs that automatically check the validity of your programs.
+Manual testing(logging, clicking) is useful in certain cases, but that it simply doesn't scale.
+Writing a bunch of tests for your code eliminates certain problems of scalability and it becomes clear as you do it.
+
+Catch errors!
+Two types of errors :
+
+Bugs, or code that "works incorrectly"; and
+Instances of Error objects are thrown when runtime errors occur. 
+Errors, sometimes called exceptions, caused by code that fails due to unhandled exceptional circumstances.
+
+### Types of tests in Javascript Stack
 Unit tests: A single piece of code (usually an object or a function) is tested, isolated from other pieces
 Integration tests: Multiple pieces are tested together, for example testing database access code against a test database
 Acceptance tests (also called Functional tests): Automatic testing of the entire application, for example using a tool like Selenium to automatically run a browser.
@@ -53,3 +66,7 @@ https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 https://github.com/jsdom/jsdom
 
 https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-automation.md
+
+
+
+
