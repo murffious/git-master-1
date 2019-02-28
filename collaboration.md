@@ -2,6 +2,8 @@
 
 Every time somethiing works hurry and commit. That implies 2 things - `git add .` and `git commit -m "what works now type here and other info"`
 
+git remote -v 
+
 ### Getting the team project on my laptop
 
 `git clone https://url_get_after_clicking_green_cloneButton_in repo`
