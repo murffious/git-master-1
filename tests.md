@@ -1,15 +1,14 @@
 
-### Why write tests it feels lame! 
-Tests are programs that automatically check the validity of your programs.
+### Why write tests it feels lame almost insulting! 
 Manual testing(logging, clicking) is useful in certain cases, but that it simply doesn't scale.
-Writing a bunch of tests for your code eliminates certain problems of scalability and it becomes clear as you do it.
+It is a time consuming and error-prone way to test code. To the first point, taking the time to call functions and reload pages with different configurations can take up to a minute at a time. To the second, point out that it´s difficult to ensure you execute the same click sequences with the same settings in different configurations — e.g., checking behavior in Firefox vs Chrome. Tests are programs that automatically check the validity of your programs. Writing a bunch of tests for your code eliminates certain problems of scalability and it becomes clear as you do it.
 
+### What do tests do?
 Catch errors!
-Two types of errors :
 
-Bugs, or code that "works incorrectly"; and
-Instances of Error objects are thrown when runtime errors occur. 
-Errors, sometimes called exceptions, caused by code that fails due to unhandled exceptional circumstances.
+Two types of errors :
+- Bugs, or code that "works incorrectly"; and
+- Errors, sometimes called exceptions, caused by code that fails due to unhandled exceptional circumstances. Instances of Error objects are thrown when runtime errors occur.
 
 ### Types of tests in Javascript Stack
 Unit tests: A single piece of code (usually an object or a function) is tested, isolated from other pieces
