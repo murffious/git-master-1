@@ -10,6 +10,7 @@ Two types of errors :
 - Bugs, or code that "works incorrectly"; and
 - Errors, sometimes called exceptions, caused by code that fails due to unhandled exceptional circumstances. Instances of Error objects are thrown when runtime errors occur.
 
+try catch 
 ### Types of tests in Javascript Stack
 Unit tests: A single piece of code (usually an object or a function) is tested, isolated from other pieces
 Integration tests: Multiple pieces are tested together, for example testing database access code against a test database
