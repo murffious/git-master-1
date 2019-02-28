@@ -69,3 +69,16 @@ https://github.com/atinfo/awesome-test-automation/blob/master/javascript-test-au
 
 
 
+Been looking into debugging in Vscode as they are always adding things (not sure if this part here is new or what) - I hate all the set up and JSON configs and all that sometimes more time to get all setup with what I need than just to hit it with a console log BUT ........ I read closely in the DOCS (as is following my own advice ba ding....lol) and found something SO FAR is working perfectly. Normally you hit attach and all that and set up a config ---
+I tried this ----  Auto Attach -  https://code.visualstudio.com/docs/nodejs/nodejs-debugging#_auto-attach-feature
+*STEP 1*. CTRL (or CMD for Mac) + SHIFT + P
+*STEP 2*. Type in the Search prompt in Vscode after that command in 1 -- Debug Toggle Auto Attach - then CLICK it when it populates in the list. It will then TOGGLE ON and even at the bottom bar of vscode say it Auto Attach: On
+*STEP 3a* - in your file on the left of the main code window set break points with a red dot
+*STEP 3b*. add this `--inspect-brk` to your node command line when running a file. so `node --inspect-brk myfile.js` (edited) 
+
+DONE
+super easy no set up minus 1 time toggle enable
+still exploring it though but give it a try - obviously configs can lead to more CONTROL and specific desired out comes BUT this is a NO config option I just learned #alwayslearning
+Be sure to == 1. hover over tool tips to learn what the top menu bar does in debugger menu at top
+2. hover over the code in question it self OR look on left menu bar in the SMASH BUGS or NO BUGS icon and look at the variable values (edited) 
+
