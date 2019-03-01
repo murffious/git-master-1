@@ -52,6 +52,7 @@ https://www.sitepoint.com/javascript-testing-unit-functional-integration/
 Tip:
 Unit tests should be your main focus when testing JavaScript code. They are the easiest to write and maintain, and provide many benefits beyond reducing bugs. Integration and functional tests should be in a supporting role, for where unit tests are not suitable.
 
+A/B Testing 
 Continuous Integration
 
 MORE TEST explanations
