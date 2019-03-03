@@ -1,3 +1,5 @@
+https://medium.freecodecamp.org/how-to-write-your-own-map-filter-and-reduce-functions-in-javascript-ab1e35679d26
+
 var any = function(arr, cb){
   var isTrue = false;
 
