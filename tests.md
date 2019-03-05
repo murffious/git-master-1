@@ -18,7 +18,7 @@ Acceptance tests (also called Functional tests): Automatic testing of the entire
 
 Unit tests
 You run unit tests constantly during the development process to ensure that everything is working, every time you make a change.
-
+acceptance 
 Integration tests
 You use integration tests when you add new code to pre-existing code, to make sure that not only do all of the pieces work individually as expected, but also that they run together correctly without breaking.
 
