@@ -25,3 +25,9 @@ use my coding tool here offer to those going to meet up only
 - React native electron stuff for meet up 
 
 #### Corrines idea here or get some real non profit gigs
+
+
+### Idea board combined with  office hours scheduler and mini lecture request tool 
+https://docs.google.com/spreadsheets/d/106Qijyq12DCaa8MVuqtEiaIgNsSPsuSoNzJP3N-c6uM/edit?usp=sharing
+
+## flash card tool to review vocab etc 
