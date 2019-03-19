@@ -13,8 +13,8 @@ class App extends Component {
       {/* <StripeProvider apiKey="">
       </StripeProvider> */}
        
-          {/* <Login/> */}
-          <Checkout/>
+          <Login/>
+          {/* <Checkout/> */}
           {/* <BrowserRouter>
           <div>
             <Header />

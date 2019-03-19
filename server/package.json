@@ -1,0 +1,25 @@
+{
+  "name": "git-master-1",
+  "version": "1.0.0",
+  "description": "CONTENTS:",
+  "main": "errorhandling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murffious/git-master-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murffious/git-master-1/issues"
+  },
+  "homepage": "https://github.com/murffious/git-master-1#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.1.0"
+  }
+}
