@@ -1,5 +1,7 @@
 ### Office Hour REACT APP Build
 
+https://trello.com/b/tiyFuWEc/u-of-u
+
 ###### Features
 
 - Validation
@@ -9,6 +11,8 @@
 - Landing Page
 - Sign up / Checkout
 - Stripe payment
+- Edit profile
+- Email confirm
 
 Bouns:
 
