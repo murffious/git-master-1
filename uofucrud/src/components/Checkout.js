@@ -12,6 +12,8 @@ import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 import AddressForm from './AddressForm';
 import PaymentForm from './PaymentForm';
+import CheckoutForm from "./CheckoutForm";
+
 import Review from './Review';
 
 const styles = theme => ({
