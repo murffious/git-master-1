@@ -4,17 +4,18 @@ import InjectedCheckoutForm from "./CheckoutForm";
 import Grid from '@material-ui/core/Grid';
 import FormControlLabel from '@material-ui/core/FormControlLabel';
 import Checkbox from '@material-ui/core/Checkbox';
-
+import Pricing from './Pricing';
 function PaymentForm() {
   return (
     <React.Fragment>
-      
+       <Grid item xs={12} md={12}>
+      <Pricing/>
         Payment method
-     
+        </Grid>
       <Grid container spacing={24}>
-        <Grid item xs={12} md={6}>
+        <Grid item xs={12} md={12}>
         <Elements>
-                <InjectedCheckoutForm/>
+          <InjectedCheckoutForm/>
         </Elements>
         </Grid>
   

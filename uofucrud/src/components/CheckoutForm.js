@@ -4,7 +4,10 @@ import { injectStripe } from "react-stripe-elements";
 import CardSection from "./CardSection";
 
 class CheckoutForm extends React.Component {
-  
+  state = {
+   failure: false,
+  };
+
   handleSubmit = ev => {
  
       this.props.stripe
