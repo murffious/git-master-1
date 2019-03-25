@@ -32,3 +32,4 @@ ps aux | grep node
 https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse?noredirect=1&lq=1
 https://stackoverflow.com/questions/9898372/how-to-fix-error-listen-eaddrinuse-while-using-nodejs
 \bash script bash rc stuff here - etc
+https://stackoverflow.com/questions/8553957/how-to-release-localhost-from-error-listen-eaddrinuse?noredirect=1&lq=1
