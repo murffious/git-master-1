@@ -1,9 +1,8 @@
 Lesson Plan notes
 
-the PHP command line tool comes with a built-in server. In the directory containing your index.php file, run: php -S localhost:3000.
-
-Visit http://localhost:3000, and demonstrate that index.php is being served.
-PHP automatically serves index.php
+the PHP command line tool comes with a built-in server. 
+In the directory containing your index.php file, run: php -S localhost:3000.
+Visit http://localhost:3000, and index.php is being served. PHP automatically serves index.php
 
 BIG benefit see patterns in all programming languages deepen your undertaking of programming as you do this. 
 - Some people get jobs in php - word press is a great way to get started 
