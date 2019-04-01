@@ -1,23 +1,17 @@
-Lesson Plan notes
-
-the PHP command line tool comes with a built-in server. 
-In the directory containing your index.php file, run: php -S localhost:3000.
-Visit http://localhost:3000, and index.php is being served. PHP automatically serves index.php
-
-BIG benefit see patterns in all programming languages deepen your undertaking of programming as you do this. 
+### Lesson Plan notes Php
+- BIG benefit see patterns in all programming languages deepen your understanding of programming as you do this. 
 - Some people get jobs in php - word press is a great way to get started 
 - kinda like Node - in what it can do 
-PHP has a variable analogous to Node's process.argv,
-Explain that $argv is an array.
+- running JavaScript files from the command line with Node, and explain that we can do the exact same thing with PHP files using php.
+- PHP has a variable analogous to Node's process.argv,
+- `$argv` is an array. `$argv[0]` is always the name used to run the script. Higher indices collect arguments themselves.
+- The PHP command line tool comes with a built-in server. 
+- In the directory containing your index.php file, run: php -S localhost:3000.
+- Visit http://localhost:3000, and index.php is being served. PHP automatically serves index.php
+- you can embed PHP in HTML. or use <php? /> to wrap whole thing
 
-Explain that $argv[0] is always the name used to run the script. Higher indices collect arguments themselves.
+###### basic structures of the language: (variable declarations; arrays, associative arrays; and classes) 
 
-
-basic structures of the language: (variable declarations; arrays, associative arrays; and classes) 
-
-Superglobals — Superglobals are built-in variables that are always available in all scopes
-https://www.php.net/manual/en/language.variables.superglobals.php
-you can embed PHP in HTML. or use <php? />
 PHP supports the following data types:
 boolean
 integer
@@ -28,7 +22,12 @@ object
 resource
 NULL
 
-$
+
+- $varname
+
+
+- Superglobals — Superglobals are built-in variables that are always available in all scopes
+https://www.php.net/manual/en/language.variables.superglobals.php
 * Draw an analogy to running JavaScript files from the command line with Node, and explain that we can do the exact same thing with PHP files using php.
  JavaScript, browsers cannot understand PHP. This means we must run it on a server.
 This means we need a server to first interpret the PHP, and then send the result to the browser.
@@ -66,6 +65,10 @@ iterate over the keys and values of an associative array using foreach
 
 =>
 .
+
+
+
+
 
 PHP has a variable analogous to Node's process.argv,
 
