@@ -4,8 +4,7 @@
 
 3. What is a [closure?] (https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 Closures are frequently used in JavaScript for object data privacy, in event handlers and callback functions, and in partial applications, currying, and other functional programming patterns.
-
-  
+“Can you name two common uses for closures?”  
 4. Langauge that gets trasnplied to JS and its benefits
 what does a js framework offer ?
               Typescript 
