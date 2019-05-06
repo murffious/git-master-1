@@ -364,3 +364,25 @@ take a tutorial but then code
 
 If you are stuck Revisit What You’ve Already Learned its really hard to learn all the first time through go back and see if you missed something in the lesson materials. Only after months of developing and a revisit to the DOCS was I able to grasp them. Reading and learning from the DOCS is tough at first. So don't give up. 
 
+
+
+
+
+7 Tips for clean code - Andy sterkowitz 
+Don’t abbreviate variable names. 
+
+No more than 3 function arguments. Use more objects that have many in it for example in stead. 
+
+Simplify if else conditional. 
+Instead try to Return conditionals directly. 
+
+Reduce complexity by declaring variables. Close to where they are used not all at top. If big file. 
+
+Make sure functions do what they say like with their name - pure functions.  No unintended consequences.  Not an abstraction that is useful.
+
+Functions do One thing one thing. Only.  Do it well. Manage complexity. Your Brian. 
+Store in short term memory. 
+How to manage async. Then. 
+Avoid long functions.  Modularization. 
+
+Avoid zombie code. Dead but could come alive if Uncommented.  May come back and use it later. BUT could come back to haunt with bugs or cause confusion. Instead use Git. Source control. 
