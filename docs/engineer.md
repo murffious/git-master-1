@@ -366,7 +366,15 @@ If you are stuck Revisit What You’ve Already Learned its really hard to learn 
 
 
 
+Responsibilities
 
+* 		Design, develop, test, deploy, maintain and improve software.
+* 		Manage individual project priorities, deadlines and deliverables.
+
+Design, build, and maintain performing and responsive experiences for our users. 
+- Partner with product, marketing, and design engineering to drive innovation in design development. 
+- Migrate to more modern frontend technologies and establish our best practices. 
+- Facilitate quality by writing unit tests and participating in code reviews
 
 7 Tips for clean code - Andy sterkowitz 
 Don’t abbreviate variable names. 
