@@ -65,7 +65,7 @@ module.exports = function(app) {
       const aborter = Aborter.timeout(30 * ONE_MINUTE);
       const containerName = "invoices";
       // const localFilePath = req.file.path;
-      const credentials = new SharedKeyCredential("quantumcloud", "key");
+      const credentials = new SharedKeyCredential("yourblob", "key");
       const pipeline = StorageURL.newPipeline(credentials);
       const serviceURL = new ServiceURL(`https://YOURBLOBNAME.blob.core.windows.net`, pipeline);
     
@@ -85,7 +85,7 @@ module.exports = function(app) {
         return this._applyTimezone(date, options).format('YYYY-MM-DD HH:mm:ss');
       };
       var sequelize = await dbConnect(dbName); 
-      var filePathUrl = `https://YOURBLOB.blob.core.windows.net/invoices/${blobName}`;
+      var filePathUrl = `https://YOURBLOB.blob.core.windows.net/container_name_here/${blobName}`;
       await sequelize.query(`INSERT INTO Invoices (filePathUrl, reportingPeriodStart, reportingPeriodEnd, createdAt, updatedAt) VALUES (?, ?, ?, ?, ?)`, 
         { type: sequelize.QueryTypes.INSERT, replacements: [filePathUrl, periodStartDate, periodEndDate,  createdAt, moment(Date.now()).format('YYYY-MM-DD HH:mm:ss')],})
         .then(async invoicesData => {
