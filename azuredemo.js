@@ -3,7 +3,7 @@
 // still need to test it lol also could be more dry with variables for some things
 // FYI - I was using this for pdf invoices and xl docs so you see that name throughout
 // also each one of my clients have their own db so I need to simplify this 
-// azure re did their whole sdk it kinda it like playing with 2 different libraries
+// azure re did their whole sdk it kinda it like playing with 2 different node packages @azure/storage-blob and azure-storage
 // needs some work check back but its all here 
 const
   multer = require('multer')
