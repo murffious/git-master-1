@@ -5,6 +5,15 @@
 // also each one of my clients have their own db so I need to simplify this 
 // azure re did their whole sdk it kinda it like playing with 2 different node packages @azure/storage-blob and azure-storage
 // needs some work check back but its all here 
+
+
+// They have several repos - all except 1 being deprecated - its kind of a mess
+// https://github.com/Azure-Samples/storage-blob-upload-from-webapp-node
+// https://github.com/Azure-Samples/storage-blob-node-getting-started
+// https://github.com/Azure/azure-storage-js
+// https://github.com/Azure/azure-storage-node
+
+
 const
   multer = require('multer')
   , inMemoryStorage = multer.memoryStorage()
