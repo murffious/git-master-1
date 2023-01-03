@@ -10,7 +10,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "react-stripe-elements": "^2.0.3",
     "recharts": "^1.5.0"
   },
